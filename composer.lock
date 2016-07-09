@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "35859cb9f17cb71a0241a3d715afed94",
+    "content-hash": "31328e68cb8a18d71c1f1309e87440ec",
+    "packages": [
+        {
+            "name": "jmbtechnologylimited/osmaths",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/JMB-Technology-Limited/OSMaths.git",
+                "reference": "0ec1a8f2731378f23859e40892f580072baf323d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/JMB-Technology-Limited/OSMaths/zipball/0ec1a8f2731378f23859e40892f580072baf323d",
+                "reference": "0ec1a8f2731378f23859e40892f580072baf323d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "JMBTechnologyLimited": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD"
+            ],
+            "description": "conversations around the coordinate systems used for Ordnance Survey Open Data only",
+            "homepage": "https://github.com/JMB-Technology-Limited/OSMaths",
+            "time": "2016-07-09 10:03:47"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.0"
+    },
+    "platform-dev": []
+}

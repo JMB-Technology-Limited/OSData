@@ -1,0 +1,20 @@
+{
+	"name": "jmbtechnologylimited/osdata",
+	"type": "library",
+	"description": "for working with Ordnance Survey Open Data",
+	"keywords": [],
+	"homepage": "https://github.com/JMB-Technology-Limited/OSData",
+	"license": "BSD",
+	"authors": [ ],
+	"require": {
+		"php": ">=5.3.0",
+		"jmbtechnologylimited/osmaths": "1.0.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"JMBTechnologyLimited": "src"
+		}
+	},
+	"require-dev": {
+	}
+}
