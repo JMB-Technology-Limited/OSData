@@ -4,7 +4,7 @@
 	"description": "for working with Ordnance Survey Open Data",
 	"keywords": [],
 	"homepage": "https://github.com/JMB-Technology-Limited/OSData",
-	"license": "BSD",
+	"license": "BSD-3-Clause",
 	"authors": [ ],
 	"require": {
 		"php": ">=5.3.0",
